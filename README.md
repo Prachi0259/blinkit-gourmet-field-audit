@@ -2,7 +2,7 @@
 
 A hands-on assortment check of the Blinkit Gourmet category in one specific delivery zone, done the way a shopper would do it: open the app, set the zone, search brand by brand.
 
-**Live page:** https://prachi0259.github.io/blinkit-gourmet-field-audit/
+**Live page:** [https://prachi0259.github.io/blinkit-gourmet-field-audit/](https://drive.google.com/file/d/1s7VrU037FWEp_vQEbYk-9F4GYb8zWcDU/view?usp=sharing)
 
 ## What this is
 
