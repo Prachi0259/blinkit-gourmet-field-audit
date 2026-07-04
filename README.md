@@ -1,4 +1,4 @@
-# Blinkit Gourmet Field Audit — DLF Phase 1, Gurugram
+# Blinkit Gourmet Field Audit - DLF Phase 1, Gurugram
 
 A hands-on assortment check of the Blinkit Gourmet category in one specific delivery zone, done the way a shopper would do it: open the app, set the zone, search brand by brand.
 
